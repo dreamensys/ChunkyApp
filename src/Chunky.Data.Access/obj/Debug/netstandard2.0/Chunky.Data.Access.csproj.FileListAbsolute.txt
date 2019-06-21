@@ -1,0 +1,9 @@
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\obj\Debug\netstandard2.0\Chunky.Data.Access.csprojAssemblyReference.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\obj\Debug\netstandard2.0\Chunky.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\obj\Debug\netstandard2.0\Chunky.Data.Access.AssemblyInfoInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\obj\Debug\netstandard2.0\Chunky.Data.Access.AssemblyInfo.cs
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\bin\Debug\netstandard2.0\Chunky.Data.Access.deps.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\bin\Debug\netstandard2.0\Chunky.Data.Access.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\bin\Debug\netstandard2.0\Chunky.Data.Access.pdb
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\obj\Debug\netstandard2.0\Chunky.Data.Access.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Access\obj\Debug\netstandard2.0\Chunky.Data.Access.pdb

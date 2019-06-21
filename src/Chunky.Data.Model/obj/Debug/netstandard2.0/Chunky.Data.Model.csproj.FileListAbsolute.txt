@@ -1,0 +1,9 @@
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.csprojAssemblyReference.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.AssemblyInfoInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.AssemblyInfo.cs
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\bin\Debug\netstandard2.0\Chunky.Data.Model.deps.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\bin\Debug\netstandard2.0\Chunky.Data.Model.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\bin\Debug\netstandard2.0\Chunky.Data.Model.pdb
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.pdb
