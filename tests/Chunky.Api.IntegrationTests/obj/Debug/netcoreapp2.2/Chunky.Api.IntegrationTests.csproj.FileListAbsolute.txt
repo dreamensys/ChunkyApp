@@ -1,0 +1,13 @@
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.deps.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.runtimeconfig.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.runtimeconfig.dev.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\bin\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.pdb
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\obj\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\obj\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\obj\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.AssemblyInfo.cs
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\obj\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\tests\Chunky.Api.IntegrationTests\obj\Debug\netcoreapp2.2\Chunky.Api.IntegrationTests.pdb

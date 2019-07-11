@@ -1,0 +1,16 @@
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\bin\Debug\netcoreapp2.2\Chunky.Api.Models.deps.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\bin\Debug\netcoreapp2.2\Chunky.Api.Models.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\bin\Debug\netcoreapp2.2\Chunky.Api.Models.pdb
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.AssemblyInfoInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.AssemblyInfo.cs
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.pdb
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\bin\Debug\netcoreapp2.2\Chunky.Api.Models.deps.json
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\bin\Debug\netcoreapp2.2\Chunky.Api.Models.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\bin\Debug\netcoreapp2.2\Chunky.Api.Models.pdb
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.AssemblyInfoInputs.cache
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.AssemblyInfo.cs
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.dll
+C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Api.Models\obj\Debug\netcoreapp2.2\Chunky.Api.Models.pdb

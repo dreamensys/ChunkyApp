@@ -1,4 +1,3 @@
-C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.csprojAssemblyReference.cache
 C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.csproj.CoreCompileInputs.cache
 C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.AssemblyInfoInputs.cache
 C:\Users\angel.soto\Documents\NetCoreProject\ChunkyApp\src\Chunky.Data.Model\obj\Debug\netstandard2.0\Chunky.Data.Model.AssemblyInfo.cs
